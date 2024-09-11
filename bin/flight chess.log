@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(796,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(832,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(1693,16): warning C4129: “c”: 不可识别的字符转义序列
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(1694,16): warning C4129: “c”: 不可识别的字符转义序列
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(1713,14): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\afc.h(104): warning C4715: “button::inButton”: 不是所有的控件路径都返回值
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\main.cpp(1642): warning C4715: “getNextState”: 不是所有的控件路径都返回值
+  All 458 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  flight chess.vcxproj -> D:\practice\Big Proj\Flight Chess\flight chess ver1.0 - 副本\Release\flight chess.exe

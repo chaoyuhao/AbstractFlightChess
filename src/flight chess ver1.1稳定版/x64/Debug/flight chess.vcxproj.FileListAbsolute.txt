@@ -1,0 +1,4 @@
+D:\practice\学习日常\20221120\flight chess\x64\Debug\flight chess.exe
+D:\practice\Big Proj\Flight Chess\flight chess\x64\Debug\flight chess.exe
+D:\practice\Big Proj\Flight Chess\flight chess ver1.0\x64\Debug\flight chess.exe
+D:\practice\Big Proj\Flight Chess\Abstract Flight Chess cyh\Source code\flight chess ver1.1稳定版\x64\Debug\flight chess.exe
